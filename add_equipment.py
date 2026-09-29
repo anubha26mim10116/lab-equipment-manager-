@@ -4,7 +4,6 @@ def add_equipment(equipment):
 
     equipment.append({
         "name": name,
-        "quantity": quantity
-    })
+        "quantity": quantity })
 
-    print("Equipment added successfully!")
+print("Equipment added successfully!")
